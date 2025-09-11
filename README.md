@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gabriel Centurion estoy en plena transición dado que estoy enfocado en volcar toda mi experiencia en el **desarrollo de aplicaciones**. Mi objetivo es claro: pasar de la arquitectura de soluciones a la **construcción de código robusto y eficiente**.
+# ¡Hola! Soy Gabriel Centurion estoy en plena transición y estoy enfocado en volcar toda mi experiencia en el **desarrollo de aplicaciones**. Mi objetivo es claro: pasar de la arquitectura de soluciones a la **construcción de código robusto y eficiente**.
 ---
 
 ## 🚀 Mi Foco Actual: Desarrollo Web3 y Análisis de Datos
