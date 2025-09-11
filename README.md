@@ -1,23 +1,58 @@
-# ¡Hola! Soy Gabriel Centurion estoy en plena transición para volcar toda mi experiencia en el **desarrollo de aplicaciones descentralizadas (DApps)**. Mi objetivo es pasar de la arquitectura y el liderazgo de proyectos a la **construcción y el desarrollo de código**, aportando una visión de producto que pocos desarrolladores poseen.
+# ¡Hola! Soy Gabriel Centurion estoy en plena transición dado que estoy enfocado en volcar toda mi experiencia en el **desarrollo de aplicaciones**. Mi objetivo es claro: pasar de la arquitectura de soluciones a la **construcción de código robusto y eficiente**.
+---
 
-## 🚀 Mi Nuevo Enfoque: Desarrollo en Ethereum
-Actualmente, estoy inmerso en la formación y desarrollo de DApps sobre la blockchain de Ethereum, utilizando las herramientas y lenguajes que definen el ecosistema.
--   **Lenguaje de Smart Contracts:** `Solidity`
--   **Mi Misión:** Construir protocolos y aplicaciones que sean seguros, eficientes y que aporten valor real a los usuarios.
+## 🚀 Mi Foco Actual: Desarrollo Web3 y Análisis de Datos
 
-## 🛠️ Stack Tecnológico y Formación Continua
-Mi curiosidad es mi motor. Además de mi especialización en Web3, he fortalecido mi perfil técnico con formación en áreas de alta demanda:
--   **Análisis de Datos:** Cursando actualmente `Data Analytics con Python`.
--   **Programación:** Cursos finalizados en `Python`.
--   **Inteligencia de Negocio:** Formación completada en `Business Intelligence`.
+Actualmente, estoy profundizando mis habilidades en dos de las áreas más disruptivas de la tecnología:
 
-## 🔭 Mi Aporte como Desarrollador
-Mi experiencia previa no es un capítulo cerrado, sino la base sobre la que construyo mi carrera como desarrollador.
--   **Fundamento Académico Sólido:** Como **Licenciado en Sistemas de Información** de la Facultad de Ciencias Económicas (Universidad de Buenos Aires), mi enfoque para resolver problemas es analítico y estructurado.
--   **Visión de Producto:** Más de 20 años traduciendo las necesidades del negocio en requerimientos técnicos. Ahora, escribo el código que resuelve esas necesidades.
--   **Experiencia de Dominio (Finanzas/Banca):** Un profundo entendimiento del mundo financiero tradicional (TradFi), ideal para construir soluciones de Finanzas Descentralizadas (DeFi) disruptivas.
+1.  **Desarrollo en Ethereum:** Formándome activamente en la creación de DApps con **Solidity** para construir aplicaciones descentralizadas seguras y escalables.
+2.  **Data Analytics:** Cursando la especialización en **Análisis de Datos con Python** para extraer insights y tomar decisiones basadas en datos.
+
+## 🛠️ Stack Tecnológico Principal
+
+Estas son las herramientas y lenguajes que estoy utilizando y perfeccionando activamente:
+
+-   **Web3:** Solidity
+-   **Programación:** Python, Java, C#, SQL (PL/SQL, T-SQL)
+-   **Bases de Datos:** SQL Server, Oracle, Azure App Insights
+-   **Herramientas Clave:** Postman, Jira, Git, Docker (Aprendiendo)
+-   **Cloud:** Fundamentos de Microsoft Azure
+
+<details>
+<summary>👉 Ver mi stack tecnológico completo y experiencia previa</summary>
+  
+### Habilidades Técnicas Detalladas
+  
+- **Bases de Datos:** App insight de azure, SQL / Stored Procedures (SQL Server, Oracle).
+- **Software de Gestión:** Worldsys (Central Data, SOS), Smart Open, Siebel CRM, Sistemas Bejerman, Tango.
+- **Herramientas:** Postman, Jira, Microsoft Project, Lotus Notes, NetIQ, Enterprise Administrator, Arc Serve.
+- **Programación:** PL/SQL, Pascal, VB6, C#, Java, Python.
+- **Plataformas y SO:** Todas las plataformas Microsoft Windows (cliente y servidor), Linux, UNIX, AS/400.
+- **Ofimática y Otros:** Microsoft Office (Avanzado), Redes, Cableado Estructurado, Antivirus Management.
+
+### Cursos y Certificaciones
+  
+- Programación en Python para principiantes (Talento Tech)
+- Business Intelligence (Talento Tech)
+- Análisis de datos con Python (Talento Tech)
+- Fundamentos de Microsoft Azure (Fundación Proydesa)
+- CCNA - Cisco Certified Network Associate (Fundación Proydesa)
+- Curso Java jr. (Renault Argentina)
+- Curso Java (Codo a Codo)
+- Curso .Net jr. (Becas Control-F)
+- Curso Lotus Notes 5.0 (EDS)
+
+</details>
+
+---
+
+## 🎓 Educación e Idiomas
+
+-   **Título Universitario:** Licenciado en Sistemas de Información – FCE, Universidad de Buenos Aires (UBA).
+-   **Idiomas:** Inglés (Nivel Intermedio Avanzado).
 
 ## 📫 ¿Conectamos?
-Estoy buscando activamente oportunidades para colaborar y crecer como desarrollador en el espacio Web3. ¡Hablemos!
+
+Busco activamente oportunidades para colaborar y crecer como desarrollador. ¡Hablemos!
 -   **LinkedIn:** [Gabriel Centurion](https://www.linkedin.com/in/gabrielcenturion/)
 -   **Correo:** gabrielcenturion@yahoo.com.ar
