@@ -1,4 +1,4 @@
-# ¡Hola! Mi nombre es Gabriel Centurion y actualmente estoy en plena transición de volcar toda mi experiencia laboral en el **desarrollo de aplicaciones descentralizadas**. 
+# ¡Hola! Mi nombre es Gabriel Centurion y me encuentro en plena transición de volcar toda mi experiencia laboral en el arear de sistemas hacia el **desarrollo de aplicaciones descentralizadas y la ciencia de datos**. 
 
 ---
 
