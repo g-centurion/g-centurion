@@ -56,4 +56,4 @@ Estas son las herramientas y lenguajes que estoy utilizando y perfeccionando act
 
 Busco activamente oportunidades para colaborar y crecer como desarrollador. ¡Hablemos!
 -   **LinkedIn:** [Gabriel Centurion](https://www.linkedin.com/in/gabrielcenturion/)
--   **Correo:** gabrielcenturion@yahoo.com.ar
+
