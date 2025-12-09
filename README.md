@@ -1,4 +1,4 @@
-# ¡Hola! Mi nombre es Gabriel Centurion y me encuentro en plena transición de volcar toda mi experiencia laboral en el arear de sistemas hacia el **desarrollo de aplicaciones descentralizadas y la ciencia de datos**. 
+# ¡Hola! Mi nombre es Gabriel Centurion, soy Licenciado en Sistemas de Información de las Organizaciones de la Facultad de Ciencias Económicas de la Universidad de Buenos Aires (UBA), y me encuentro en plena transición de volcar toda mi experiencia laboral en el area de sistemas hacia el **desarrollo de aplicaciones descentralizadas y la ciencia de datos**. 
 
 ---
 
