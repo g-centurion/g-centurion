@@ -33,7 +33,9 @@ Blockchain & Ethereum
 - [Introducción a Ethereum](https://openbadgefactory.com/obv3/credentials/f1ea1a9cfc7e234ebef58c9f462af4b78aca58a6.html)
 - [Fundamentos de Solidity](https://openbadgefactory.com/obv3/credentials/b5359fe36a8ea99becd14ec54b2c7ef8b01dee61.html)
 - [Aplicaciones Descentralizadas](https://openbadgefactory.com/obv3/credentials/d1b563fc2944fd97646f95a96c43df7a0fdbe80c.html)  
-- [Development Tooling & DeFi](https://openbadgefactory.com/obv3/credentials/ccf13d19db51496d997c7909247cf5792d592752.html)  
+- [Development Tooling & DeFi](https://openbadgefactory.com/obv3/credentials/ccf13d19db51496d997c7909247cf5792d592752.html)
+- [Introducción a la Preparación para Auditorías](https://openbadgefactory.com/obv3/credentials/52b365227030c210fed496225fca7dfe60f4ae66)
+
 
 Otros
 - Fundamentos de Microsoft Azure (Fundación Proydesa)
